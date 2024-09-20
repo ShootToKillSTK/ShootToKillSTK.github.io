@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "about.md", title: "About Me"}
   - {file: "README.md", title: "Read Me"}
-  - {file: "About.md", title: "About Me"}
   - {title: "Blog", file: "/blog.md"}
   - {title: "Youtube", url: "https://www.youtube.com/@ShootToKill"}
 
