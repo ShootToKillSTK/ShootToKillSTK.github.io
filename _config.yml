@@ -1,6 +1,6 @@
 title: "Brody O'Neill"
 author: "Brody O'Neill"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Game Dev & Programmer"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home C"}
-  - {file: "README.md", title: "about me"}
+  - {file: "index.html", title: "Home"}
+  - {file: "README.md", title: "About Me"}
+  - {title: "Youtube", url: "https://www.youtube.com/@ShootToKill"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:boneill291@hotmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ShootToKillSTK"}
-  - {title: Subscribe, icon: rss, url: "https://www.youtube.com/@ShootToKill"}
+  - {title: Subscribe, icon: youtube, url: "https://www.youtube.com/@ShootToKill"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
