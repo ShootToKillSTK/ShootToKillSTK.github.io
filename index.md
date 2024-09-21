@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Brody O'Neill"
 ---
 
 I'm currently a student of Toronto Film School taking the Game development and Design course, 
