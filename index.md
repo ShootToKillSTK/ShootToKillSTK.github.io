@@ -2,6 +2,7 @@
 layout: page
 title: "Game Dev/Programmer"
 ---
+![My Logo](/images/LogoDesign.png)
 [Demo Reel](https://youtu.be/X4cXdLfqp58?si=LGqRfVNn5VfuWOMF)
 
 I'm currently a student of Toronto Film School taking the Game development and Design course, 
