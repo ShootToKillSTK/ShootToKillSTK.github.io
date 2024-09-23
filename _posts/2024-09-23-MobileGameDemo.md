@@ -3,7 +3,7 @@ title: "Mobile Game - Plants Vs Skeletons"
 layout: post
 ---
 
-#Plants Vs Skeletons Demo in Unity
+## Plants Vs Skeletons Demo in Unity
 Based on the mobile game Plants vs Zombies
 - Random variable enemy spawn system with increasing frequency
 - Multiple plant support with ease to add more
