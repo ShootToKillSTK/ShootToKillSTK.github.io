@@ -7,6 +7,7 @@ title: "Game Dev/Programmer"
 
 I'm currently a student of Toronto Film School taking the Game development and Design course, 
 I have a big passion for games and that is how I decided I wanted to start coding, so I could then make my own and bring my ideas to life!
-![Game Engines](/images/UnityAndUnreal.png)
+
+![Game Engines](/images/UnityAndUnreal.jpg)
 ## Contact me:
 boneill291@hotmail.com
