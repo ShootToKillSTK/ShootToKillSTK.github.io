@@ -10,11 +10,12 @@ categories: media
 
 Features:
 - Slice detecting/cutting ropes
-- Auto connecting/making ropes via code
-- Easily make new levels with unity prefabs
+- Win by getting candy to monster
 
-![Pinball Game](/images/BLANK.png)
+![Pinball Game](/images/CutTheRopeGame.png)
 
 Creation Process:
-- 
+- Auto connecting/making ropes via code
+- Easily make new levels with unity prefabs (Below image)
+![Pinball Game](/images/CutTheRopePrefabs.png)
 ---
