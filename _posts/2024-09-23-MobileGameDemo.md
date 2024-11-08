@@ -13,3 +13,8 @@ Based on the mobile game Plants vs Zombies
 - Using AI art and self drawn for lots of the assets like; plants, tiles, skeletons. Edited in photoshop.
 
 ![Pinball Game](/images/PVZMobile2.png)
+
+# Creation Process
+- Made plant art myself with help from AI
+- Enemy spawning supports a weighted variable per enemy type and slowly speeds up spawns over time
+- Enemies speed, attack frequency and health can all be edited easily or adjusted for adding new enemies
