@@ -14,7 +14,7 @@ Based on the mobile game Plants vs Zombies
 
 ![Pinball Game](/images/PVZMobile2.png)
 
-# Creation Process
+Creation Process
 - Made plant art myself with help from AI
 - Enemy spawning supports a weighted variable per enemy type and slowly speeds up spawns over time
 - Enemies speed, attack frequency and health can all be edited easily or adjusted for adding new enemies
