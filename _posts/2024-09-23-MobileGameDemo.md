@@ -4,7 +4,7 @@ layout: post
 ---
 
 ## Plants Vs Skeletons Demo in Unity
-[Download](https://yec-my.sharepoint.com/:u:/r/personal/brody_oneill_torontofilmschool_ca/Documents/GAME%20BUILDS/Plants_vs_Skeletons-ANDROID.apk?csf=1&web=1&e=SHn9Ub)
+[Download](https://yec-my.sharepoint.com/:u:/g/personal/brody_oneill_torontofilmschool_ca/ESWMmFCHN_tKvFa797Rb74ABJZSArGbrSQ7Hgs8YwHKH2A?e=CcHw6X)
 ---
 Based on the mobile game Plants vs Zombies
 - Random variable enemy spawn system with increasing frequency
