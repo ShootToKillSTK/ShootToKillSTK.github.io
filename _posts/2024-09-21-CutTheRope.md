@@ -10,7 +10,7 @@ categories: media
 
 Features:
 - Slice detecting/cutting ropes
-- Win by getting candy to monster
+- Win by getting ball to monster
 
 ![Pinball Game](/images/CutTheRopeGame.png)
 
