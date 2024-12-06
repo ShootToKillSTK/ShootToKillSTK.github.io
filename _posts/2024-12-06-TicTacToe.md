@@ -15,5 +15,5 @@ Features:
 
 ![TicTacToe Game](/images/tictactoe.png)
 
-![TicTacToe Game](/images/CutTheRopePrefabs.png)
+![TicTacToe Game](/images/tictactoe2.png)
 ---
